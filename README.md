@@ -1,5 +1,6 @@
 # Multi Agent Reinforcement Learning System
 
-Environment
+Game Environment 
 
-![image](https://github.com/user-attachments/assets/618f2b6d-caf1-49de-aff0-ffcf642e4338)
+![Game Environment](https://github.com/user-attachments/assets/a4fb3973-358a-431c-b320-40bba3936ac5)
+
